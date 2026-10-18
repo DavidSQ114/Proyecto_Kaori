@@ -1,8 +1,8 @@
 {
-    "release":  6,
-    "notes":  "Tendencias de Japón, China y todo el mundo en Para ti",
-    "file":  "kaori-6.zip",
-    "sha256":  "7951e00ffb9b92d43647385927a12a3dd798ce1ec24a95bd9d4d3ba2758b054c",
-    "size":  307622,
-    "date":  "2026-10-18 00:03"
+    "release":  7,
+    "notes":  "Si un sitio no deja cargar los capítulos (Cloudflare), Kaori reintenta y explica qué pasa",
+    "file":  "kaori-7.zip",
+    "sha256":  "3d273d3c6a7453c20503e7f4a72c8ee11eb597dcbd1d8a8f6a05c6a0ba43b966",
+    "size":  308616,
+    "date":  "2026-10-18 00:26"
 }
