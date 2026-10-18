@@ -1,8 +1,8 @@
 {
-    "release":  1,
-    "notes":  "Primera versión con actualizaciones automáticas",
-    "file":  "kaori-1.zip",
-    "sha256":  "4178ddf0f6b7f6ec834527aabc47a22ec081f42846577c1f0d60368311b806c8",
-    "size":  298071,
-    "date":  "2026-10-17 21:57"
+    "release":  2,
+    "notes":  "Ranking en español: sinopsis, géneros y reseñas traducidas",
+    "file":  "kaori-2.zip",
+    "sha256":  "b8dc8f737c185fa760cde9a3987854d270e2324db01f8c44984990c51ea197e8",
+    "size":  298543,
+    "date":  "2026-10-17 22:38"
 }
