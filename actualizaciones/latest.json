@@ -1,8 +1,8 @@
 {
-    "release":  3,
-    "notes":  "Lectura automática en webtoon con velocidad ajustable (botón ▶ o tecla A)",
-    "file":  "kaori-3.zip",
-    "sha256":  "51e8c6866585ed09379ce41ae0e845ff7d9128c63631fc3aa76e494a037009be",
-    "size":  300266,
-    "date":  "2026-10-17 22:47"
+    "release":  4,
+    "notes":  "Filtro de BL/GL en todo Kaori (Menú \u003e Apariencia) y clic derecho para ocultar series",
+    "file":  "kaori-4.zip",
+    "sha256":  "5ac8c405e737475df53502d9c4d9a1f7bcb07138f3aaa0e780ba55889bfc319a",
+    "size":  306438,
+    "date":  "2026-10-17 23:40"
 }
