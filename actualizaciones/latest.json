@@ -1,8 +1,8 @@
 {
-    "release":  4,
-    "notes":  "Filtro de BL/GL en todo Kaori (Menú \u003e Apariencia) y clic derecho para ocultar series",
-    "file":  "kaori-4.zip",
-    "sha256":  "5ac8c405e737475df53502d9c4d9a1f7bcb07138f3aaa0e780ba55889bfc319a",
-    "size":  306438,
-    "date":  "2026-10-17 23:40"
+    "release":  5,
+    "notes":  "Opción para ocultar todo el contenido +18 (Menú \u003e Apariencia \u003e Contenido +18)",
+    "file":  "kaori-5.zip",
+    "sha256":  "a14985e72fb7af6a81056e454cca9177c1f8d3083e53621c33ea79f40614d01d",
+    "size":  307027,
+    "date":  "2026-10-17 23:51"
 }
