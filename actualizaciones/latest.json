@@ -1,8 +1,8 @@
 {
-    "release":  2,
-    "notes":  "Ranking en español: sinopsis, géneros y reseñas traducidas",
-    "file":  "kaori-2.zip",
-    "sha256":  "b8dc8f737c185fa760cde9a3987854d270e2324db01f8c44984990c51ea197e8",
-    "size":  298543,
-    "date":  "2026-10-17 22:38"
+    "release":  3,
+    "notes":  "Lectura automática en webtoon con velocidad ajustable (botón ▶ o tecla A)",
+    "file":  "kaori-3.zip",
+    "sha256":  "51e8c6866585ed09379ce41ae0e845ff7d9128c63631fc3aa76e494a037009be",
+    "size":  300266,
+    "date":  "2026-10-17 22:47"
 }
