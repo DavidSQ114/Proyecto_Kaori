@@ -1,8 +1,8 @@
 {
-    "release":  5,
-    "notes":  "Opción para ocultar todo el contenido +18 (Menú \u003e Apariencia \u003e Contenido +18)",
-    "file":  "kaori-5.zip",
-    "sha256":  "a14985e72fb7af6a81056e454cca9177c1f8d3083e53621c33ea79f40614d01d",
-    "size":  307027,
-    "date":  "2026-10-17 23:51"
+    "release":  6,
+    "notes":  "Tendencias de Japón, China y todo el mundo en Para ti",
+    "file":  "kaori-6.zip",
+    "sha256":  "7951e00ffb9b92d43647385927a12a3dd798ce1ec24a95bd9d4d3ba2758b054c",
+    "size":  307622,
+    "date":  "2026-10-18 00:03"
 }
