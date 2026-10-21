@@ -1,7 +1,7 @@
 {
-    "release":  2,
-    "notes":  "Arregla el error «index: 1, size: 1» al saltar de capítulo y la imagen de fondo que a veces se veía borrosa",
-    "file":  "kaori2-2.zip",
-    "sha256":  "ea052879622c7522d969819e10e5e3d768cfb914c26bb93754b59c47a20772e7",
-    "size":  1557506
+    "release":  3,
+    "notes":  "Kaori 2 puede ir solo (sin Kaori 1) y las actualizaciones se instalan con una ventanita visible en lugar de PowerShell oculto",
+    "file":  "kaori2-3.zip",
+    "sha256":  "483a242d131617098e209e2dff4191efdc02fdd7a987f35cd761ff20e2d18b70",
+    "size":  1852738
 }

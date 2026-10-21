@@ -20,13 +20,17 @@ Se publica desde la PC de desarrollo con:
 
 ## Kaori 2
 
-La nueva versión de Kaori (más rápida y con más funciones). Se instala **junto a tu Kaori** y usa tu misma
-biblioteca, tus descargas y tus lecturas; Kaori no cambia y puedes seguir usándolo.
+La nueva versión de Kaori (más rápida y con más funciones). Lleva todo lo que necesita: **no hace falta tener
+Kaori 1 ni Java**, y no pide permisos de administrador.
 
 1. Descarga **`Instalar-Kaori2.exe`** desde [Releases](https://github.com/DavidSQ114/Proyecto_Kaori/releases/latest).
-2. Ábrelo. Si Windows avisa «Windows protegió tu PC», pulsa **Más información › Ejecutar de todas formas**
-   (el instalador no está firmado).
-3. Confirma la carpeta de tu Kaori (la encuentra solo) y listo: aparece **Kaori 2** en el escritorio y en el menú Inicio.
+2. Ábrelo y sigue el asistente. Si Windows muestra «Windows protegió tu PC» (pasa con programas nuevos que aún no
+   tienen firma digital; no es un aviso de virus), pulsa **Más información › Ejecutar de todas formas**.
+3. Listo: aparece **Kaori 2** en el menú Inicio (y en el escritorio, si lo marcaste). La primera vez tarda un poco más
+   en abrir: prepara su servidor y descarga su navegador para las fuentes protegidas.
+
+Se instala en `%LOCALAPPDATA%\Programs\Kaori 2` y guarda tus datos en `%LOCALAPPDATA%\Kaori2` (al desinstalar te
+pregunta si borrarlos). Quien ya tenía Kaori 2 instalado junto a Kaori 1 puede seguir así: se actualiza igual.
 
 Kaori 2 se actualiza solo: busca actualizaciones al abrirse y una vez al día, y las instala al cerrarlo
 (o desde **Apariencia › Actualizaciones**). Las consulta en la carpeta
