@@ -1,8 +1,8 @@
 {
-    "release":  10,
-    "notes":  "Nuevo: pestaña Descargados en Descargas para leer sin internet; las series de Tus Lecturas se abren aunque no haya conexión. Arreglado: series que se quedaban en «Cargando capítulos…» (Ikigai, Nexus y otras), el botón para quitar una descarga con error, y MangaDex ya muestra todo su contenido (también el de Latinoamérica). Kaori ya no llena el disco C: con archivos temporales.",
-    "file":  "kaori-10.zip",
-    "sha256":  "6fc3c6adcbd2ebd32a76b84282a96a5293088083940620a5a47ff437d076b106",
-    "size":  317955,
-    "date":  "2026-10-20 23:18"
+    "release":  11,
+    "notes":  "Arreglado: Kaori se trababa y usaba mucha memoria (hasta 3 GB) al ver resultados con portadas muy grandes, sobre todo de MangaDex. Ahora las portadas se cargan al tamaño que se ven y la misma búsqueda usa unos 450 MB. Además, en Buscar las dos versiones de MangaDex se distinguen (ES y ES-419).",
+    "file":  "kaori-11.zip",
+    "sha256":  "8210b3dcd5409da553d71b850b4da52a536f3ca96020bf79cb16ff5c8cad5344",
+    "size":  318893,
+    "date":  "2026-10-21 00:37"
 }
