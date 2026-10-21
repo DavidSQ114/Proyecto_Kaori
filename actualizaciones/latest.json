@@ -1,8 +1,8 @@
 {
-    "release":  9,
-    "notes":  "Arreglado: Kaori no abría en PCs con Windows en japonés u otros idiomas. El Ranking ya no se queda vacío si AniList falla un momento. Las series de sitios lentos (Nexus) se reintentan más tiempo antes de dar error, y los sitios bloqueados por Cloudflare (LectorXD) lo explican en vez de reintentar sin fin.",
-    "file":  "kaori-9.zip",
-    "sha256":  "2182f0c6a64bd3524429d6158f7cb8b6fab83c77ec0f8cde52a64511cbfa86b6",
-    "size":  312941,
-    "date":  "2026-10-20 21:31"
+    "release":  10,
+    "notes":  "Nuevo: pestaña Descargados en Descargas para leer sin internet; las series de Tus Lecturas se abren aunque no haya conexión. Arreglado: series que se quedaban en «Cargando capítulos…» (Ikigai, Nexus y otras), el botón para quitar una descarga con error, y MangaDex ya muestra todo su contenido (también el de Latinoamérica). Kaori ya no llena el disco C: con archivos temporales.",
+    "file":  "kaori-10.zip",
+    "sha256":  "6fc3c6adcbd2ebd32a76b84282a96a5293088083940620a5a47ff437d076b106",
+    "size":  317955,
+    "date":  "2026-10-20 23:18"
 }
