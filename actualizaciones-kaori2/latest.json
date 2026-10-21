@@ -1,0 +1,7 @@
+{
+    "release":  2,
+    "notes":  "Arregla el error «index: 1, size: 1» al saltar de capítulo y la imagen de fondo que a veces se veía borrosa",
+    "file":  "kaori2-2.zip",
+    "sha256":  "ea052879622c7522d969819e10e5e3d768cfb914c26bb93754b59c47a20772e7",
+    "size":  1557506
+}
