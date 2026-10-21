@@ -1,8 +1,8 @@
 {
-    "release":  8,
-    "notes":  "Buscar en mis fuentes muestra los resultados en cuanto una fuente encuentra la serie (ya no espera a las lentas) y avisa en cuáles sigue buscando; una fuente que no responde en 40 s ya no bloquea la búsqueda. Explorar: si un sitio tarda en dar la siguiente página, se reintenta solo en vez de cortar el catálogo (Nexus).",
-    "file":  "kaori-8.zip",
-    "sha256":  "e62cb12f699367b2ec488609e31dba85b73faf19670559980cf7d7b46ad5e1a3",
-    "size":  309974,
-    "date":  "2026-10-20 20:46"
+    "release":  9,
+    "notes":  "Arreglado: Kaori no abría en PCs con Windows en japonés u otros idiomas. El Ranking ya no se queda vacío si AniList falla un momento. Las series de sitios lentos (Nexus) se reintentan más tiempo antes de dar error, y los sitios bloqueados por Cloudflare (LectorXD) lo explican en vez de reintentar sin fin.",
+    "file":  "kaori-9.zip",
+    "sha256":  "2182f0c6a64bd3524429d6158f7cb8b6fab83c77ec0f8cde52a64511cbfa86b6",
+    "size":  312941,
+    "date":  "2026-10-20 21:31"
 }
