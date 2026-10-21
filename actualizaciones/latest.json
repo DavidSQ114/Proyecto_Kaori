@@ -1,8 +1,8 @@
 {
-    "release":  7,
-    "notes":  "Si un sitio no deja cargar los capítulos (Cloudflare), Kaori reintenta y explica qué pasa",
-    "file":  "kaori-7.zip",
-    "sha256":  "3d273d3c6a7453c20503e7f4a72c8ee11eb597dcbd1d8a8f6a05c6a0ba43b966",
-    "size":  308616,
-    "date":  "2026-10-18 00:26"
+    "release":  8,
+    "notes":  "Buscar en mis fuentes muestra los resultados en cuanto una fuente encuentra la serie (ya no espera a las lentas) y avisa en cuáles sigue buscando; una fuente que no responde en 40 s ya no bloquea la búsqueda. Explorar: si un sitio tarda en dar la siguiente página, se reintenta solo en vez de cortar el catálogo (Nexus).",
+    "file":  "kaori-8.zip",
+    "sha256":  "e62cb12f699367b2ec488609e31dba85b73faf19670559980cf7d7b46ad5e1a3",
+    "size":  309974,
+    "date":  "2026-10-20 20:46"
 }
