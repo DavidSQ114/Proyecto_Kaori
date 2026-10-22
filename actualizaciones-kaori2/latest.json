@@ -1,7 +1,7 @@
 {
-    "release":  5,
-    "notes":  "La barra de arriba del lector ya no aparece al hacer scroll: solo al llevar el ratón arriba",
-    "file":  "kaori2-5.zip",
-    "sha256":  "b6d9d0d53fcb42eba2dd3fc08f4e8b3fbb986e14e8328cdf463a63036deca7ac",
-    "size":  1848250
+    "release":  6,
+    "notes":  "En el modo tira ya puedes subir al capítulo anterior haciendo scroll",
+    "file":  "kaori2-6.zip",
+    "sha256":  "7cf133ce3469f3a91af26644385f87a3f086a600d493c74f57b5f8e4f9445dc0",
+    "size":  1852854
 }
