@@ -1,7 +1,7 @@
 {
-    "release":  3,
-    "notes":  "Kaori 2 puede ir solo (sin Kaori 1) y las actualizaciones se instalan con una ventanita visible en lugar de PowerShell oculto",
-    "file":  "kaori2-3.zip",
-    "sha256":  "483a242d131617098e209e2dff4191efdc02fdd7a987f35cd761ff20e2d18b70",
-    "size":  1852738
+    "release":  4,
+    "notes":  "Arregla el error al abrir la campana de avisos",
+    "file":  "kaori2-4.zip",
+    "sha256":  "d942cf5ebcaf8e385f93ab6019316646a843674cbf9012259df6c1e773233acb",
+    "size":  1847110
 }
