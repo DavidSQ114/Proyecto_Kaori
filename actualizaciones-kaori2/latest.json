@@ -1,7 +1,7 @@
 {
-    "release":  6,
-    "notes":  "En el modo tira ya puedes subir al capítulo anterior haciendo scroll",
-    "file":  "kaori2-6.zip",
-    "sha256":  "7cf133ce3469f3a91af26644385f87a3f086a600d493c74f57b5f8e4f9445dc0",
-    "size":  1852854
+    "release":  7,
+    "notes":  "Lectura más fluida (el capítulo entero se descarga al entrar) y la caché de páginas se limpia sola: más de una semana o más de 1 GB (tus descargas no se tocan)",
+    "file":  "kaori2-7.zip",
+    "sha256":  "41bbe97e1ff95b83b9930ac4c4c7eb9b3187d07ceeb7ec659c4bfbc3ef6a65e3",
+    "size":  1904092
 }
