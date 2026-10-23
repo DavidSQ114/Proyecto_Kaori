@@ -1,7 +1,7 @@
 {
-    "release":  8,
-    "notes":  "Ves qué capítulos leíste y por qué página vas en cada uno; clic derecho para marcarlos; y si repasas uno anterior, «Volver a donde ibas»",
-    "file":  "kaori2-8.zip",
-    "sha256":  "e54a7fbfecd3d21b5d9941181ff648bd7d9a60cc80a7eb13fe710fe9a223d7e9",
-    "size":  2600049
+    "release":  9,
+    "notes":  "Lector: elegir un capítulo en el panel ya no abre el anterior, y al subir por la tira ya no salta al principio del capítulo de arriba: se desplaza con suavidad (las páginas reservan su alto real antes de cargarse).",
+    "file":  "kaori2-9.zip",
+    "sha256":  "1c5ea4fc0cb4f8c3945b1bcc38f700548eb50f97df82e6245f5062019a56b34d",
+    "size":  2612491
 }
