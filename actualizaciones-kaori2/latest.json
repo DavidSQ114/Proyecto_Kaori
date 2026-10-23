@@ -1,7 +1,7 @@
 {
-    "release":  9,
-    "notes":  "Lector: elegir un capítulo en el panel ya no abre el anterior, y al subir por la tira ya no salta al principio del capítulo de arriba: se desplaza con suavidad (las páginas reservan su alto real antes de cargarse).",
-    "file":  "kaori2-9.zip",
-    "sha256":  "1c5ea4fc0cb4f8c3945b1bcc38f700548eb50f97df82e6245f5062019a56b34d",
-    "size":  2612491
+    "release":  10,
+    "notes":  "Ficha de la serie: al abrirla se consultan los capítulos nuevos en el sitio (antes podía faltar el último capítulo publicado).",
+    "file":  "kaori2-10.zip",
+    "sha256":  "f023f9d777160093610764c126350318ad4b3a503ce4895f2c1036716188ebeb",
+    "size":  2617565
 }
