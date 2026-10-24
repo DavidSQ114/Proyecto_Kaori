@@ -1,7 +1,7 @@
 {
-    "release":  10,
-    "notes":  "Ficha de la serie: al abrirla se consultan los capítulos nuevos en el sitio (antes podía faltar el último capítulo publicado).",
-    "file":  "kaori2-10.zip",
-    "sha256":  "f023f9d777160093610764c126350318ad4b3a503ce4895f2c1036716188ebeb",
-    "size":  2617565
+    "release":  11,
+    "notes":  "Explorar › Extensiones: busca, instala, actualiza y quita extensiones (con «Actualizar todas»).",
+    "file":  "kaori2-11.zip",
+    "sha256":  "bf3e4572b319cc3878a9f66fe1c621fddf454d832b64f79c6294daab5e29b528",
+    "size":  2669726
 }
